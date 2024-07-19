@@ -15,5 +15,6 @@ minio/minio
 grafana/grafana:latest
 mingrammer/flog
 grafana/promtail:main
+busybox:latest
 #支持指定架构
 --platform=linux/amd64
