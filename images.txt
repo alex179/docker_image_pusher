@@ -16,7 +16,7 @@ grafana/grafana:latest
 mingrammer/flog
 grafana/promtail:main
 busybox:latest
-openobserve/openobserve:v0.10.8-rc5
+openobserve/openobserve:v0.10.9-rc2-debug
 timberio/vector:0.39.0-debian
 
 #支持指定架构
