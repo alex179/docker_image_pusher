@@ -18,8 +18,7 @@ grafana/promtail:main
 busybox:latest
 openobserve/openobserve:latest
 timberio/vector:0.39.0-debian
-rabbitmq:latest
-bitnami/rabbitmq:3.13.6
+rabbitmq:management
 
 #支持指定架构
 --platform=linux/amd64
