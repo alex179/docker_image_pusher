@@ -19,6 +19,7 @@ busybox:latest
 openobserve/openobserve:latest
 timberio/vector:0.39.0-debian
 rabbitmq:3.10-management
+doccano/doccano
 
 #支持指定架构
 --platform=linux/amd64
