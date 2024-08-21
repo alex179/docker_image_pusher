@@ -3,6 +3,7 @@ nginx
 heartexlabs/label-studio:latest
 openobserve/openobserve:v0.11.0-rc1
 postgres:13
+semitechnologies/weaviate:1.25.12
 
 #支持指定架构
 --platform=linux/amd64
