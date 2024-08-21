@@ -2,6 +2,7 @@ nginx
 #支持私库
 heartexlabs/label-studio:latest
 openobserve/openobserve:v0.11.0-rc1
+postgres:13
 
 #支持指定架构
 --platform=linux/amd64
