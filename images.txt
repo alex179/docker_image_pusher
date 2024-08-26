@@ -1,9 +1,11 @@
 nginx
 #支持私库
-heartexlabs/label-studio:latest
-openobserve/openobserve:v0.11.0-rc1
-postgres:13
-semitechnologies/weaviate:1.25.12
+ubuntu/squid:latest
+langgenius/dify-sandbox:0.2.6
+langgenius/dify-web:0.7.1
+langgenius/dify-api:0.7.1
+nginx:latest
 
 #支持指定架构
 --platform=linux/amd64
+
