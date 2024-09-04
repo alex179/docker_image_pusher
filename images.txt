@@ -9,7 +9,7 @@ localai/localai:latest-aio-cpu
 quay.io/go-skynet/local-ai:master-ffmpeg-core
 ubuntu:22.04
 actualbudget/actual-server:latest
-
+pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 
 #支持指定架构
 --platform=linux/amd64
