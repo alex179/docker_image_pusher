@@ -8,6 +8,8 @@ alpine:3.20
 localai/localai:latest-aio-cpu
 quay.io/go-skynet/local-ai:master-ffmpeg-core
 ubuntu:22.04
+actualbudget/actual-server:latest
+
 
 #支持指定架构
 --platform=linux/amd64
