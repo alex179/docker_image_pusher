@@ -12,6 +12,7 @@ nginx
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 ollama/ollama:latest
 lobehub/lobe-chat:v1.15.12
+node:16.13.0
 
 
 #支持指定架构
