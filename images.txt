@@ -13,6 +13,7 @@ nginx
 ollama/ollama:latest
 lobehub/lobe-chat:v1.15.12
 node:18.12
+postgres:16
 
 
 #支持指定架构
