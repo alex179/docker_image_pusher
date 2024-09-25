@@ -12,11 +12,11 @@
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 #ollama/ollama:latest
 #lobehub/lobe-chat:v1.15.12
-#node:18.12
+node:20.11-alpine3.19
 #postgres:16
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.4.11
+#quay.io/coreos/etcd:v3.5.5
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#milvusdb/milvus:v2.4.11
 
 #支持指定架构
 --platform=linux/amd64
