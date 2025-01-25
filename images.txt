@@ -1,4 +1,4 @@
-#nginx
+                                                                                                                                                                            #nginx
 #支持私库
 #langgenius/dify-web:0.7.3
 #langgenius/dify-api:0.7.3
@@ -18,9 +18,9 @@ node:20.11-alpine3.19
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.4.11
 #ghcr.io/alexta69/metube
-busybox
-public.ecr.aws/zinclabs/openobserve:v0.13.1-rc1
+#busybox
+#public.ecr.aws/zinclabs/openobserve:v0.13.1-rc1
+nginx:latest
 
 #支持指定架构
---platform=linux/amd64
-
+--platform=linux/arm64
