@@ -20,7 +20,9 @@ node:20.11-alpine3.19
 #ghcr.io/alexta69/metube
 #busybox
 #public.ecr.aws/zinclabs/openobserve:v0.13.1-rc1
-nginx:latest
+#nginx:latest
+golang:1.13.15
+
 
 #支持指定架构
 --platform=linux/arm64
