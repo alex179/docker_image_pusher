@@ -17,7 +17,8 @@ node:20.11-alpine3.19
 #postgres:16
 #quay.io/coreos/etcd:v3.5.5
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
-bitnami/milvus:2.5.4
+#bitnami/milvus:2.5.4
+milvusdb/milvus:v2.5.4
 #ghcr.io/alexta69/metube
 #busybox
 #public.ecr.aws/zinclabs/openobserve:v0.13.1-rc1
