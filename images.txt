@@ -1,7 +1,7 @@
                                                                                                                                                                             #nginx
 #支持私库
-langgenius/dify-web:1.0.1
-langgenius/dify-api:1.0.1
+langgenius/dify-web:1.1.0
+langgenius/dify-api:1.1.0
 langgenius/dify-sandbox:0.2.10
 langgenius/dify-plugin-daemon:main-local-linux-amd64
 #python:3.10-slim-bookworm
