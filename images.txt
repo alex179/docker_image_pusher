@@ -1,12 +1,13 @@
                                                                                                                                                                             #nginx
 #支持私库
-langgenius/dify-web:1.8.0
-langgenius/dify-api:1.8.0
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.2.0-local
+node:23-alpine
+#langgenius/dify-web:1.8.0
+#langgenius/dify-api:1.8.0
+#langgenius/dify-sandbox:0.2.12
+#langgenius/dify-plugin-daemon:0.2.0-local
 #python:3.10-slim-bookworm
 #python:3.10-slim-bullseye
-python:3.12-slim-bookworm
+#python:3.12-slim-bookworm
 #alpine:3.20
 #localai/localai:latest-aio-cpu
 #quay.io/go-skynet/local-ai:master-ffmpeg-core
@@ -20,19 +21,19 @@ node:20.11-alpine3.19
 #quay.io/coreos/etcd:v3.5.5
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #bitnami/milvus:2.5.4
-milvusdb/milvus:v2.5.4
+#milvusdb/milvus:v2.5.4
 #ghcr.io/alexta69/metube
 #busybox
 #public.ecr.aws/zinclabs/openobserve:v0.13.1-rc1
 #nginx:latest
-golang:1.24.5
-golang:1.24.5-bullseye
+#golang:1.24.5
+#golang:1.24.5-bullseye
 
-sameersbn/squid:3.5.27-2
-nginx:1.28.0-alpine3.21
-mysql:8
+#sameersbn/squid:3.5.27-2
+#nginx:1.28.0-alpine3.21
+#mysql:8
 
-vllm/vllm-openai:v0.8.2
+#vllm/vllm-openai:v0.8.2
 
 
 #支持指定架构
