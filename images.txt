@@ -1,6 +1,6 @@
                                                                                                                                                                             #nginx
 #支持私库
-node:23-alpine
+node:24-alpine
 #langgenius/dify-web:1.8.0
 #langgenius/dify-api:1.8.0
 #langgenius/dify-sandbox:0.2.12
