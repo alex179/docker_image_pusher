@@ -1,7 +1,7 @@
                                                                                                                                                                             #nginx
 #支持私库
 #node:24-alpine
-langgenius/dify-web:1.10.1
+langgenius/dify-web:1.10.1-fix.1
 langgenius/dify-api:1.10.1
 #langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.4.1-local
