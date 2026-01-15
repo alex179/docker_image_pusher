@@ -26,7 +26,7 @@ langgenius/dify-plugin-daemon:0.4.1-local
 #busybox
 #public.ecr.aws/zinclabs/openobserve:v0.13.1-rc1
 #nginx:latest
-#golang:1.24.5
+golang:1.25
 #golang:1.24.5-bullseye
 golang:1.20.14-bullseye
 
