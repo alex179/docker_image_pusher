@@ -36,7 +36,9 @@ golang:1.20.14-bullseye
 #mysql:8
 
 #vllm/vllm-openai:v0.8.2
-
+quay.io/minio/minio:RELEASE.2024-01-16T16-07-38Z
+quay.io/minio/mc:RELEASE.2024-01-13T08-44-48Z
+nats:2.10-alpine
 
 #支持指定架构
 --platform=linux/arm64
