@@ -19,7 +19,7 @@ langgenius/dify-plugin-daemon:0.6.0-local
 #node:20.11-alpine3.19
 #postgres:16
 #quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2025-10-15T17-29-55Z
+#minio/minio:RELEASE.2025-10-15T17-29-55Z
 #bitnami/milvus:2.5.4
 #milvusdb/milvus:v2.5.4
 #ghcr.io/alexta69/metube
@@ -36,7 +36,7 @@ golang:1.20.14-bullseye
 #mysql:8
 
 #vllm/vllm-openai:v0.8.2
-quay.io/minio/minio:RELEASE.2024-01-16T16-07-38Z
+quay.io/minio/minio:RELEASE.2025-09-07T16-13-09Z.hotfix.7aa24e772
 quay.io/minio/mc:RELEASE.2024-01-13T08-44-48Z
 nats:2.10-alpine
 
