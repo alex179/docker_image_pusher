@@ -37,7 +37,7 @@ golang:1.20.14-bullseye
 
 #vllm/vllm-openai:v0.8.2
 quay.io/minio/minio:RELEASE.2025-09-07T16-13-09Z.hotfix.7aa24e772
-quay.io/minio/mc:RELEASE.2024-01-13T08-44-48Z
+quay.io/minio/mc:RELEASE.2025-08-13T08-35-41Z
 nats:2.10-alpine
 
 #支持指定架构
